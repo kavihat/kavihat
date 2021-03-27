@@ -3,7 +3,7 @@
 ### 📫 You can reach me at: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kavithakannanunny/) [ 📧](mailto:kavitha.kannanunny@gmail.com)
 ### 😄 Pronouns:She/Her
 ### ⚡ Fun fact about me: I am a developer who loves light theme over dark theme.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavihat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kavihat/kavihat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
