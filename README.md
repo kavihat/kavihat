@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### 🔭 I’m currently pursuing Master's in Computer Science
-### 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kavithakannanunny/) [ 📧](mailto:kavitha.kannanunny@gmail.com)
+### 📫 You can reach me at: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kavithakannanunny/) [ 📧](mailto:kavitha.kannanunny@gmail.com)
 ### 😄 Pronouns:She/Her
-### ⚡ Fun fact: I am a developer who loves light theme over dark theme.
+### ⚡ Fun fact about me: I am a developer who loves light theme over dark theme.
 
 <!--
 **kavihat/kavihat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
