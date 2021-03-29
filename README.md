@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### 🔭 I’m currently pursuing Master's in Computer Science
 ### 📫 You can reach me at: [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/kavithakannanunny/) [ 📧](mailto:kavitha.kannanunny@gmail.com)
 ### 😄 Pronouns:She/Her
