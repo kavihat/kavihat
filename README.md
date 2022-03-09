@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### 🔭 I’m currently pursuing Master's in Computer Science
-•<B> Languages:</B>  Python, Java, C++, SQL, PL/SQL, Bash, JavaScript, React JS, HTML, CSS, PHP <BR/>
+### 🔭 I’m currently pursuing Master's in Computer Science (May 2022 Grad)
+•<B> Languages:</B>  Python, Java, C++, SQL, PL/SQL, Bash, JavaScript, HTML, CSS, PHP <BR/>
  • <B>Technologies:</B> Apache ActiveMQ, Hadoop, Spark, MySQL, Docker, AWS<BR/>
 • <B>Tools:</B> Scikit-learn, Pandas, Git, Apache Airflow, Oracle Data Integrator, Microsoft Office<BR/>
  • <B>Other:</B> Agile Software Development, SDLC, Linux<BR/>
