@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 ### 🔭 I’m currently pursuing Master's in Computer Science (May 2022 Grad)
 •<B> Languages:</B>  Python, Java, SQL, PL/SQL, Bash, JavaScript, HTML, CSS, PHP <BR/>
  • <B>Technologies:</B> Apache ActiveMQ, Hadoop, Spark, MySQL, Docker, AWS<BR/>
